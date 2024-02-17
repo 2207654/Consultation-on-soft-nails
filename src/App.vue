@@ -1,9 +1,6 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
-a = 2
-b = 2
-c - 1
 </script>
 
 <template>
